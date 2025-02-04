@@ -1,0 +1,168 @@
+* {
+    /* font-family: "Fredoka", serif; */
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: rgb(201, 201, 201);
+    background-image: url("https://t3.ftcdn.net/jpg/03/55/60/70/360_F_355607062_zYMS8jaz4SfoykpWz5oViRVKL32IabTP.jpg");
+}
+
+input:hover {}
+
+.container {
+    width: 600px;
+    height: 500px;
+    /* border: 2px solid black;  */
+    position: absolute;
+    left: 400px;
+    top: 30px;
+    border-radius: 9px;
+    background-color: rgb(254, 255, 248);
+}
+
+h1 {
+    padding: 0px 0px 0px 14px;
+    /* position: absolute; */
+    /* left: 9px; */
+}
+
+.lastnamee {
+    position: absolute;
+    left: 401px;
+    bottom: 381px;
+}
+
+.lastname {
+    font-size: 20px;
+}
+
+/* .lastname{
+position: absolute;
+bottom: 480px;
+left: 408px; */
+}
+
+#First_Name {
+    position: absolute;
+    left: px;
+}
+
+#First_Name:hover {
+    background-color: rgb(244, 255, 245);
+    border-radius: 4px;
+}
+
+.firstname {
+    position: absolute;
+    bottom: 403px;
+    left: 17px;
+    font-size: 20px;
+}
+
+#email {
+    position: absolute;
+    top: 146px;
+    left: 20px;
+    font-size: 20px;
+}
+.emial:hover{
+    background-color: rgb(244, 255, 245);
+    border-radius: 4px;
+}
+
+/* .email{
+position: absolute;
+top: 170px;
+left: 12px;
+} */
+
+#job_role {
+    position: absolute;
+    bottom: 310px;
+    left: 402px;
+}
+#job_role:hover{
+    background-color: rgb(244, 255, 245);
+    border-radius: 4px;   
+}
+
+.jobrole {
+    position: absolute;
+    bottom: 330px;
+    left: 408px;
+    font-size: 20px;
+}
+
+.your_message {
+    position: absolute;
+    top: 229px;
+    left: 20px;
+}
+
+#your_message {
+    position: absolute;
+    top: 248px;
+    left: 13px;
+    width: 563px;
+    height: 100px;
+}
+
+#downarrow {
+    position: absolute;
+    left: 562px;
+    top: 172px;
+}
+
+#city {
+    position: absolute;
+    bottom: 76px;
+    left: 15px;
+}
+#city:hover{
+    background-color: rgb(244, 255, 245);
+    border-radius: 4px;
+}
+
+.city {
+    position: absolute;
+    bottom: 97px;
+    left: 18px;
+    font-size: 20px;
+}
+
+#pincode {
+    position: absolute;
+    bottom: 76px;
+    left: 406px;
+}
+#pincode{
+    background-color: rgb(244, 255, 245);
+    border-radius: 4px;
+}
+
+.pincode {
+    position: absolute;
+    bottom: 98px;
+    left: 411px;
+    font-size: 20px;
+}
+
+button {
+    position: absolute;
+    bottom: 17px;
+    left: 250px;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+button:hover {
+   background-color:  rgb(209, 224, 210);
+}
+
+#Last_Name:hover {
+    background-color: rgb(244, 255, 245);
+    border-radius: 4px;
+}
